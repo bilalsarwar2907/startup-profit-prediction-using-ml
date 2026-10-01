@@ -1,0 +1,11 @@
+pandas
+scikit-learn
+xgboost
+mlflow
+matplotlib
+joblib
+fastapi
+uvicorn
+pytest
+httpx
+ipykernel
